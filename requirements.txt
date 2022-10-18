@@ -1,0 +1,4 @@
+Pillow
+torchvision
+torch
+numpy
