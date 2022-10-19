@@ -2,3 +2,5 @@ Pillow
 torchvision
 torch
 numpy
+matplotlib
+tensorflow
